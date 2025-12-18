@@ -51,24 +51,33 @@ User List Panel & Option
 git clone https://github.com/ZannatulRaian/modern-java-chat-app.git
 cd modern-java-chat-app
 Compile Java files:
+```
 
+```bash
 javac ChatServer.java
 javac ChatClient.java
 Start the server:
+```
 
+```bash
 java ChatServer
 Start clients in separate terminals:
+```
 
+```bash
 java ChatClient
 Enter unique usernames and chat!
+```
 
+```bash
 Optional: Auto-launch with PowerShell
 .\runChatApp.ps1
 This script launches the server and multiple clients automatically.
+```
 
 ---
 
-How It Works
+##How It Works
 Server: Accepts connections, broadcasts messages, updates user list
 
 Client: Connects to server, sends messages, receives broadcasts
@@ -77,7 +86,9 @@ GUI: Displays messages as colored, rounded bubbles; updates user list dynamicall
 
 Color Mapping: Each user has a unique color for easy identification
 
-Tech Stack
+---
+
+##Tech Stack
 Language: Java
 
 Networking: TCP sockets
@@ -86,7 +97,9 @@ GUI: Swing
 
 Threading: Multi-threaded client handling
 
-Future Improvements
+---
+
+##Future Improvements
 Private messaging between users
 
 File sharing in chat
@@ -99,5 +112,9 @@ Emoji support
 
 Message encryption
 
-License
+---
+
+##License
 This project is licensed under the MIT License.
+
+---
