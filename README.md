@@ -29,9 +29,12 @@ A **real-time, multi-client chat application** built in **Java** featuring:
 
 | Feature | Screenshot / GIF |
 |---------|----------------|
-| Chat Window | ![Chat UI](<img width="979" height="608" alt="Screenshot 2025-12-18 194711" src="https://github.com/user-attachments/assets/c95c1682-db6d-44db-a036-84e494adee47" />) |
-| Two-sided Messaging | ![Demo](<img width="977" height="612" alt="Screenshot 2025-12-18 194723" src="https://github.com/user-attachments/assets/0db73af1-998d-473f-824c-c4265101f6f7" />) |
-| User List Panel & Option | ![User List & Option](<img width="981" height="608" alt="Screenshot 2025-12-18 194746" src="https://github.com/user-attachments/assets/71fd7025-02dd-413f-9f32-bc8d2314926d" />) |
+| Chat Window | 
+<img width="979" height="608" alt="Screenshot 2025-12-18 194711" src="https://github.com/user-attachments/assets/c95c1682-db6d-44db-a036-84e494adee47" />
+| Two-sided Messaging | 
+<img width="977" height="612" alt="Screenshot 2025-12-18 194723" src="https://github.com/user-attachments/assets/0db73af1-998d-473f-824c-c4265101f6f7" />
+| User List Panel & Option | 
+<img width="981" height="608" alt="Screenshot 2025-12-18 194746" src="https://github.com/user-attachments/assets/71fd7025-02dd-413f-9f32-bc8d2314926d" />
 
 ---
 
