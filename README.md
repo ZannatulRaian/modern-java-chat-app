@@ -61,9 +61,9 @@ Start the server:
 
 ```bash
 java ChatServer
-Start clients in separate terminals:
 ```
 
+Start clients in separate terminals:
 ```bash
 java ChatClient
 Enter unique usernames and chat!
