@@ -77,37 +77,29 @@ This script launches the server and multiple clients automatically.
 
 ---
 
-##How It Works
+## How It Works
 
-Server: Accepts connections, broadcasts messages, updates user list
-Client: Connects to server, sends messages, receives broadcasts
-GUI: Displays messages as colored, rounded bubbles; updates user list dynamically
-Color Mapping: Each user has a unique color for easy identification
+- **Server**: Accepts connections, broadcasts messages, updates user list.  
+- **Client**: Connects to server, sends messages, receives broadcasts.  
+- **GUI**: Displays messages as colored, rounded bubbles; updates user list dynamically.  
+- **Color Mapping**: Each user has a unique color for easy identification.
 
----
+## Tech Stack
 
-##Tech Stack
+- **Language**: Java  
+- **Networking**: TCP sockets  
+- **GUI**: Swing  
+- **Threading**: Multi-threaded client handling
 
-Language: Java
-Networking: TCP sockets
-GUI: Swing
-Threading: Multi-threaded client handling
+## Future Improvements
 
----
+- Private messaging between users  
+- File sharing in chat  
+- Persistent message history  
+- Customizable themes  
+- Emoji support  
+- Message encryption
 
-##Future Improvements
-
-Private messaging between users
-File sharing in chat
-Persistent message history
-Customizable themes
-Emoji support
-Message encryption
-
----
-
-##License
+## License
 
 This project is licensed under the MIT License.
-
----
