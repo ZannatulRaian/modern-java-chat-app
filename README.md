@@ -69,8 +69,8 @@ java ChatClient
 Enter unique usernames and chat!
 ```
 
-```bash
 Optional: Auto-launch with PowerShell
+```bash
 .\runChatApp.ps1
 This script launches the server and multiple clients automatically.
 ```
@@ -78,43 +78,36 @@ This script launches the server and multiple clients automatically.
 ---
 
 ##How It Works
+
 Server: Accepts connections, broadcasts messages, updates user list
-
 Client: Connects to server, sends messages, receives broadcasts
-
 GUI: Displays messages as colored, rounded bubbles; updates user list dynamically
-
 Color Mapping: Each user has a unique color for easy identification
 
 ---
 
 ##Tech Stack
+
 Language: Java
-
 Networking: TCP sockets
-
 GUI: Swing
-
 Threading: Multi-threaded client handling
 
 ---
 
 ##Future Improvements
+
 Private messaging between users
-
 File sharing in chat
-
 Persistent message history
-
 Customizable themes
-
 Emoji support
-
 Message encryption
 
 ---
 
 ##License
+
 This project is licensed under the MIT License.
 
 ---
