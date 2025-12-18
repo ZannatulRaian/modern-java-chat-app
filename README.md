@@ -91,6 +91,8 @@ This script launches the server and multiple clients automatically.
 - **GUI**: Swing  
 - **Threading**: Multi-threaded client handling
 
+---
+
 ## Future Improvements
 
 - Private messaging between users  
@@ -100,6 +102,10 @@ This script launches the server and multiple clients automatically.
 - Emoji support  
 - Message encryption
 
+---
+
 ## License
 
 This project is licensed under the MIT License.
+
+---
