@@ -50,9 +50,9 @@ User List Panel & Option
 ```bash
 git clone https://github.com/ZannatulRaian/modern-java-chat-app.git
 cd modern-java-chat-app
-Compile Java files:
 ```
 
+Compile Java files:
 ```bash
 javac ChatServer.java
 javac ChatClient.java
