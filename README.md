@@ -72,8 +72,8 @@ Enter unique usernames and chat!
 Optional: Auto-launch with PowerShell
 ```bash
 .\runChatApp.ps1
-This script launches the server and multiple clients automatically.
 ```
+This script launches the server and multiple clients automatically.
 
 ---
 
